@@ -8,3 +8,7 @@ https://343730221282.signin.aws.amazon.com/console
 
 FH10-65
 https://545723666116.signin.aws.amazon.com/console
+
+
+http://aka.ms/unifiedinstaller_sea
+
