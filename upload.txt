@@ -1,6 +1,10 @@
 https://portal.alero.eu/user-join/11eb6f7073bf76feb2a9eb9046be9ae5/11ec10c0e51f1f54821797f9d75ca6e6/vendor
 
+RPA
 https://599303850548.signin.aws.amazon.com/console
+
+Tableau
 https://343730221282.signin.aws.amazon.com/console
 
+FH10-65
 https://545723666116.signin.aws.amazon.com/console
