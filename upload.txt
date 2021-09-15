@@ -13,3 +13,24 @@ https://545723666116.signin.aws.amazon.com/console
 http://aka.ms/unifiedinstaller_sea
 
 *%SG$o8XuzRBKJZ(IGYp5%d)Iz=&MIl&
+
+
+--------------------------------------------------------------------------
+Hi All,
+
+I have updated the NI card the following files
+ 
+Tableau
+
+https://teams.microsoft.com/l/file/2060E45E-209C-4852-8DE0-807DFB97503B?tenantId=01ca7c05-7080-4768-bfe7-d1e3cff7b99c&fileType=xlsx&objectUrl=https%3A%2F%2Ffraserscentrepoint.sharepoint.com%2Fsites%2FFPLAWStoAzureMigration-TableauMigration%2FShared%20Documents%2FTableau%20Migration%2FTableau.xlsx&baseUrl=https%3A%2F%2Ffraserscentrepoint.sharepoint.com%2Fsites%2FFPLAWStoAzureMigration-TableauMigration&serviceName=teams&threadId=19:a68a9f43cefe463fb89d0f1ae6281a5a@thread.tacv2&groupId=41ede2da-f16f-4639-b0d3-3773882e1cff
+ 
+RPA
+
+https://teams.microsoft.com/l/file/FD1DAB63-0FDF-4E8B-8454-0AA0BCEC3E18?tenantId=01ca7c05-7080-4768-bfe7-d1e3cff7b99c&fileType=xlsx&objectUrl=https%3A%2F%2Ffraserscentrepoint.sharepoint.com%2Fsites%2FFPLAWStoAzureMigration-RPAMigration%2FShared%20Documents%2FRPA%20Migration%2FRPA.xlsx&baseUrl=https%3A%2F%2Ffraserscentrepoint.sharepoint.com%2Fsites%2FFPLAWStoAzureMigration-RPAMigration&serviceName=teams&threadId=19:27125de966864b7f9d1a07c8ed0204f3@thread.tacv2&groupId=41ede2da-f16f-4639-b0d3-3773882e1cff
+
+FH
+
+https://teams.microsoft.com/l/file/349AE88C-23E6-4ED7-B1A0-5F966F4EA75C?tenantId=01ca7c05-7080-4768-bfe7-d1e3cff7b99c&fileType=xlsx&objectUrl=https%3A%2F%2Ffraserscentrepoint.sharepoint.com%2Fsites%2FFPLAWStoAzureMigration-FHMigration%2FShared%20Documents%2FFH%20Migration%2FFH.xlsx&baseUrl=https%3A%2F%2Ffraserscentrepoint.sharepoint.com%2Fsites%2FFPLAWStoAzureMigration-FHMigration&serviceName=teams&threadId=19:5066501bfa9b4b6095e4b688b53b2b3f@thread.tacv2&groupId=41ede2da-f16f-4639-b0d3-3773882e1cff
+
+ 
+Please access using your frasersproperty.com account
