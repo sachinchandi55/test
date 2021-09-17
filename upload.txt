@@ -25,7 +25,7 @@ tar -xvf Microsoft-ASR_UA_9.43.0.0_RHEL7-64_GA_16Jul2021_Release.tar.gz
  
  register
  /usr/local/ASR/Vx/bin/UnifiedAgentConfigurator.sh -i 10.114.0.5 -P /var/passphrase.txt
-
+5CkZ5WMMMFJL2o55
 
 
 
