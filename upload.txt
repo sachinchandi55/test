@@ -1,3 +1,31 @@
+sh InstallDependencyAgent-Linux64.bin
+sudo sh ./omsagent-1.13.40-0.universal.x64.sh --install -w 76ddee48-6220-41b3-8335-e3bcd8b4deb1 -s 7lQOBVjzW9AT/yxnuoDbQda7Jlyoy2XDqnXPf+inPyeAb7rI/tFc9RPX6h9JMRxluFDTiYYcdMN9GEfoPnjfAA==
+----------------------------------
+
+
+tar -xvf WALinuxAgent-2.3.1.1.tar.gz
+ 1045  ls -l
+ 1046  cd WALinuxAgent-2.3.1.1/
+ 1047  ls -l
+ 1048  sudo python setup.py install
+ 1049  systemctl status waagennt
+ 1050  systemctl status waagent
+ 1051  systemctl restart waagent
+-------------------------------------------------
+tar -xvf Microsoft-ASR_UA_9.43.0.0_RHEL7-64_GA_16Jul2021_Release.tar.gz
+  995  sudo ./install -d /tmp -r Agent -v VmWare
+  996  cat var/log/ua_install.log
+  997  cat /var/log/ua_install.log
+  998  ls -l
+  999  cat /etc/redhat-release
+ 1000  sudo ./install -d /tmp -r Agent -v VmWare
+ 1001  ./install -d /tmp -r Agent -v VmWare
+ 1002  cat /var/log/ua_install.log
+ 1003  cat /var/log/InstallerErrors.json
+
+
+
+
 https://portal.alero.eu/user-join/11eb6f7073bf76feb2a9eb9046be9ae5/11ec10c0e51f1f54821797f9d75ca6e6/vendor
 
 RPA
