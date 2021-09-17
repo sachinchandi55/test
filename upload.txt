@@ -22,6 +22,9 @@ tar -xvf Microsoft-ASR_UA_9.43.0.0_RHEL7-64_GA_16Jul2021_Release.tar.gz
  1001  ./install -d /tmp -r Agent -v VmWare
  1002  cat /var/log/ua_install.log
  1003  cat /var/log/InstallerErrors.json
+ 
+ register
+ /usr/local/ASR/Vx/bin/UnifiedAgentConfigurator.sh -i 10.114.0.5 -P /var/passphrase.txt
 
 
 
